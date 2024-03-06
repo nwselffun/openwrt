@@ -1,3 +1,8 @@
+
+#CI项目名
+name: X64-Immortal
+
+on:
 # schedule:
 #    - cron: 0 20 * * *
   #手动编译
